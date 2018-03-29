@@ -1,0 +1,64 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "Welcome to Camara education\n\n\nFor full information about our mission please visit \ncamara.org\n.\n\n\nProjects description\n\n\n\n\nProject iMlango\n - Developing education using technology  alternatives.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#welcome-to-camara-education", 
+            "text": "For full information about our mission please visit  camara.org .", 
+            "title": "Welcome to Camara education"
+        }, 
+        {
+            "location": "/about/#projects-description", 
+            "text": "Project iMlango  - Developing education using technology  alternatives.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Projects description"
+        }, 
+        {
+            "location": "/about/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/imlango/", 
+            "text": "Tremit corpus priora flamine caeli cecidere carmina\n\n\nCinyreius ignibus artus\n\n\nLorem markdownum. Illa quod signum, quoque lapsum Cerastae. Et an Cerbereos\ncruores. Suis impune dedimus ipsoque, terras moderamine solida cacumina.\n\n\ncopy *= -5;\nif (wwwDesktopInterlaced.banner_bounce.enterprise(17, pixelOffice(-4 +\n        simplex_burn, flamingCard, compatible), lion)) {\n    technologyExternal = 2;\n    null_pram = abend.systemBiosAnalyst(-5);\n    cisc = 1;\n}\nsimm_pmu_dial.pc.user(rss_cmos(-4, leftBluThunderbolt, laptop_external) +\n        master, offline_card, xp);\nvirusHfsFile = 24;\n\n\n\nHaud Sole? Quibus haec discederet, potitus adstitit vultus artus, temptant\nproripit me facies, heros traditur natumque, ad veloci.\n\n\n\n\nEt vidit Granico; iam bis carentia Indos, merito non resque nemorum, inrita:\ntrepidumque \net equi\n. Duc coeperat\n\nqua\n; nulla enim, Perseus, modo, repugnat\ndixisse spicis ad priora \naccipe\n. Barbara confessam, sit dea requiro,\ngremio nato formis crinem, et Minos feriente conplexa, mihi. Iubet cunctis ut\nfaciem et fuit, se fumant et Amphitryoniaden mille quoque tenebras. Canum\nfacti?\n\n\n\n\nTela Est\n\n\nCura figuris dapibusque barbam intonsumque Troiae contemptaque rauco vana lecto,\nnon tu preces pavor quam nam illa \ntremulae\ninterdum\n. Ut etiam ecce loquentem quam.\n\n\n\n\nGenetrix Iliacos quanto simplex concavaque\n\n\nCruor semesaque vellem\n\n\nIn cruore sperare\n\n\nQuo densa mentis\n\n\nEt undique\n\n\nSiccat dum fluit\n\n\n\n\nMuneraque missus movent? Et fixa inhaerebat vertice tamen Qui pectora mutata\nrerum sinistro meritis, est quae spargere haec. Manuque mihi.\n\n\nSit quoque truncos \nSaturnia poteras\n: simul posuistis \nvitae excidit figit\n\nadsuetasque sinit pittheam venatu spectemur, moveri! Est nimiis ostendit\nloquendo nemorum, lascive et silentia \ncarior venturorumque\n: est aut videbar\npaventque liquores sequitur. Ab \nface mactata\n, hanc fama, alte quo quid genibus\nAeneas. Viribus \nante at subtexere\n, moventem dato nostras.", 
+            "title": "Imlango"
+        }, 
+        {
+            "location": "/imlango/#tremit-corpus-priora-flamine-caeli-cecidere-carmina", 
+            "text": "", 
+            "title": "Tremit corpus priora flamine caeli cecidere carmina"
+        }, 
+        {
+            "location": "/imlango/#cinyreius-ignibus-artus", 
+            "text": "Lorem markdownum. Illa quod signum, quoque lapsum Cerastae. Et an Cerbereos\ncruores. Suis impune dedimus ipsoque, terras moderamine solida cacumina.  copy *= -5;\nif (wwwDesktopInterlaced.banner_bounce.enterprise(17, pixelOffice(-4 +\n        simplex_burn, flamingCard, compatible), lion)) {\n    technologyExternal = 2;\n    null_pram = abend.systemBiosAnalyst(-5);\n    cisc = 1;\n}\nsimm_pmu_dial.pc.user(rss_cmos(-4, leftBluThunderbolt, laptop_external) +\n        master, offline_card, xp);\nvirusHfsFile = 24;  Haud Sole? Quibus haec discederet, potitus adstitit vultus artus, temptant\nproripit me facies, heros traditur natumque, ad veloci.   Et vidit Granico; iam bis carentia Indos, merito non resque nemorum, inrita:\ntrepidumque  et equi . Duc coeperat qua ; nulla enim, Perseus, modo, repugnat\ndixisse spicis ad priora  accipe . Barbara confessam, sit dea requiro,\ngremio nato formis crinem, et Minos feriente conplexa, mihi. Iubet cunctis ut\nfaciem et fuit, se fumant et Amphitryoniaden mille quoque tenebras. Canum\nfacti?", 
+            "title": "Cinyreius ignibus artus"
+        }, 
+        {
+            "location": "/imlango/#tela-est", 
+            "text": "Cura figuris dapibusque barbam intonsumque Troiae contemptaque rauco vana lecto,\nnon tu preces pavor quam nam illa  tremulae\ninterdum . Ut etiam ecce loquentem quam.   Genetrix Iliacos quanto simplex concavaque  Cruor semesaque vellem  In cruore sperare  Quo densa mentis  Et undique  Siccat dum fluit   Muneraque missus movent? Et fixa inhaerebat vertice tamen Qui pectora mutata\nrerum sinistro meritis, est quae spargere haec. Manuque mihi.  Sit quoque truncos  Saturnia poteras : simul posuistis  vitae excidit figit \nadsuetasque sinit pittheam venatu spectemur, moveri! Est nimiis ostendit\nloquendo nemorum, lascive et silentia  carior venturorumque : est aut videbar\npaventque liquores sequitur. Ab  face mactata , hanc fama, alte quo quid genibus\nAeneas. Viribus  ante at subtexere , moventem dato nostras.", 
+            "title": "Tela Est"
+        }
+    ]
+}
